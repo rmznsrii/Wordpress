@@ -1,5 +1,5 @@
 # Wordpress
-Wordpress ile olan projeler burada.
+AKDÜ-İÇERİK YÖNETİM SİSTEMLERİ(CMS) DERSİ ÇALIŞMALARIDIR.
 
 İlk WP Sitem-Kendini Tanıtan Blog : https://www.youtube.com/watch?v=R6NmcE9kJVk
 
